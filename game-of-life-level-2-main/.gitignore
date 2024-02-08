@@ -1,0 +1,9 @@
+*.o
+html/
+latex/
+grilles/
+lib/
+bin/
+obj/
+doc/
+.vscode/
