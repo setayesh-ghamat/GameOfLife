@@ -13,7 +13,8 @@ Lancement en mode texte:
 `./bin/main grilles/grille(votre grille préférée).txt
 `
 
-**Plus en détail:**
+Plus en détail:
+
 La touche "entrée" pour évoluer la grille
 
 La touche 'c' pour activer ou désactiver la mode cyclique/non-cyclique
@@ -26,8 +27,7 @@ La touche 'n' pour parcourrir une nouvelle grille
 
 La touche 'q' pour quitter le jeu
 
-**Lancement en mode graphique:
-**
+Lancement en mode graphique:
 
 `make
 `
@@ -35,8 +35,7 @@ La touche 'q' pour quitter le jeu
 `./bin/main grilles/grille(votre grille préférée).txt
 `
 
-**Plus en détail:
-**
+Plus en détail:
 
 Un clic droit de souris quitte le jeu
 
@@ -48,8 +47,8 @@ La touche 'o' pour activer l'oscillation
 
 La touche 'n' pour parcourrir une nouvelle grille
 
-**Lors de changement de mode sur le terminal, il faut d'abord saisir la commande make clean pour qu'on puisse recompiler le projet avec la nouvelle mode.
-**
+Lors de changement de mode sur le terminal, il faut d'abord saisir la commande make clean pour qu'on puisse recompiler le projet avec la nouvelle mode.
+
 
 Ressources :
 
